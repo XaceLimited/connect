@@ -1,6 +1,6 @@
 {
   "name": "@xace/connect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "XACE API NodeJS Client",
   "main": "bin/index.js",
   "repository": {
