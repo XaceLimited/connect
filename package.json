@@ -3,10 +3,18 @@
   "version": "1.0.1",
   "description": "XACE API NodeJS Client",
   "main": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XaceLimited/connect.git"
+  },
   "author": "XACE",
   "license": "ISC",
+  "private": false,
   "scripts": {
     "build": "tsc"
+  },
+  "publishConfig": {
+    "@xace:registry": "https://registry.npmjs.org"
   },
   "dependencies": {
     "axios": "^0.25.0",
