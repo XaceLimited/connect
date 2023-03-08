@@ -1,0 +1,22 @@
+{
+  "name": "@xace/connect",
+  "version": "1.0.0",
+  "description": "XACE API NodeJS Client",
+  "main": "bin/index.js",
+  "author": "XACE",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.3",
+    "openapi-client-axios": "^5.3.1",
+    "simple-oauth2": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "@types/simple-oauth2": "^4.1.1",
+    "typescript": "^4.8.4"
+  }
+}
