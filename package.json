@@ -14,7 +14,7 @@
     "build": "tsc"
   },
   "publishConfig": {
-    "@xace:registry": "https://registry.npmjs.org"
+    "@xace:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "axios": "^0.25.0",
