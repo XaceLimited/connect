@@ -13,9 +13,6 @@
   "scripts": {
     "build": "tsc"
   },
-  "publishConfig": {
-    "@xace:registry": "https://npm.pkg.github.com"
-  },
   "dependencies": {
     "axios": "^0.25.0",
     "dotenv": "^16.0.3",
